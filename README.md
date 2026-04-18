@@ -1,1 +1,2 @@
 # MyDockFinder-Windows25H2-Fixer
+MyDockFinder无法拖入Windows 25H2开始键拖出快捷方式的修复器
